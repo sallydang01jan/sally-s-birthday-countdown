@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "Arial Narrow";
+    src: url("../fonts/ARIALN.TTF") format("truetype");
+}
+
+body{
+    background-image: url("../photo/tải\ xuống\ \(6\).jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.tua-de{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    position: relative;
+    top: 150px;
+    font-family: "Arial Narrow";
+}
+
+.dong-ho-dem-nguoc{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 200px;
+    font-family: "Arial Narrow";
+}
+
+.hop-thoi-gian{
+    background-image: url("../photo/mint\ chocolate\ wallpaper.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    width: 120px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.hop-thoi-gian span{
+    font-size: 45px;
+    font-weight: 100;
+}
+
+.hop-thoi-gian p{
+    margin-top: 8px;
+    font-size: 20px;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+}
