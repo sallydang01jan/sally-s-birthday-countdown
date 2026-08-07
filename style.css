@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Arial Narrow";
-    src: url("../fonts/ARIALN.TTF") format("truetype");
+    src: url("ARIALN.TTF") format("truetype");
 }
 
 body{
-    background-image: url("../photo/tải\ xuống\ \(6\).jfif");
+    background-image: url("tải\ xuống\ \(6\).jfif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -28,7 +28,7 @@ body{
 }
 
 .hop-thoi-gian{
-    background-image: url("../photo/mint\ chocolate\ wallpaper.jfif");
+    background-image: url("mint\ chocolate\ wallpaper.jfif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
